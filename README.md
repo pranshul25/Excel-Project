@@ -9,7 +9,8 @@ A Dashboard has been created to analyse Purchase of Bicycle (Y/N) based on diffe
 
 * Contains 1000 records with columns:
 
-![image](https://user-images.githubusercontent.com/61349437/193420308-d944026d-e3aa-4f1c-88be-3efc18be09c9.png)
+![image](https://user-images.githubusercontent.com/61349437/193420569-a56e25a2-1a62-4f7e-8242-d04e0febce8c.png)
+
 
 * Dataset has been taken from kaggle
 
