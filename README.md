@@ -1,4 +1,4 @@
-# Excel-Project
+# Excel Mini Project
 Data cleaning and dashboard creation in Excel.
 
 ### Overview:
@@ -25,3 +25,12 @@ link: https://www.kaggle.com/datasets/heeraldedhia/bike-buyers
 * Pivot Table worksheet
 
 * Dashboard Worksheet
+
+
+
+
+![image](https://user-images.githubusercontent.com/61349437/193420698-614c8672-e563-4f73-986d-ba7991001a22.png)
+
+![image](https://user-images.githubusercontent.com/61349437/193420782-e17202b4-b6c8-4aab-9445-544c9905214a.png)
+
+
